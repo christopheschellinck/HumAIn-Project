@@ -15,7 +15,7 @@ As part of our AI training at BeCode Brussels, our team has been assigned with t
 HumAIn is an AI consultancy company that helps your organisation to cost-effectively integrate AI technologies, shooting for exponential growth opportunities. 
     <br/>
     <br/>
-    <a href="https://github.com/gietsc/Humain-project"><strong>Explore our Demo »</strong></a>
+    <a href="https://github.com/gietsc/Humain-project"><strong>Explore our Demo (christophe5.sg-host.com) »</strong></a>
 </p>
 
 
